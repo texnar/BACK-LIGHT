@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=Net1-HL1_1 Pin=1-HL1-1
+Added Pin To Net: NetName=Net1-HL1_2 Pin=1-HL1-2
+Added Pin To Net: NetName=Net1-HL2_1 Pin=1-HL2-1
+Added Pin To Net: NetName=Net1-HL2_2 Pin=1-HL2-2
+Added Pin To Net: NetName=Net1-HL3_1 Pin=1-HL3-1
+Added Pin To Net: NetName=Net1-HL3_2 Pin=1-HL3-2
+Added Pin To Net: NetName=Net1-HL4_1 Pin=1-HL4-1
+Added Pin To Net: NetName=L- Pin=1-HL4-2
+Added Pin To Net: NetName=L+ Pin=1-R1-1
+Added Pin To Net: NetName=Net1-HL1_1 Pin=1-R1-2
+Added Pin To Net: NetName=Net1-HL1_2 Pin=1-R2-1
+Added Pin To Net: NetName=Net1-HL2_1 Pin=1-R2-2
+Added Pin To Net: NetName=Net1-HL2_2 Pin=1-R3-1
+Added Pin To Net: NetName=Net1-HL3_1 Pin=1-R3-2
+Added Pin To Net: NetName=Net1-HL3_2 Pin=1-R4-1
+Added Pin To Net: NetName=Net1-HL4_1 Pin=1-R4-2
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 1-HL1 FYLS-1206UWC
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 1-HL2 FYLS-1206UWC
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 1-HL3 FYLS-1206UWC
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 1-HL4 FYLS-1206UWC
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 1-R1 3K*
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 1-R2 3K*
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 1-R3 3K*
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 1-R4 3K*

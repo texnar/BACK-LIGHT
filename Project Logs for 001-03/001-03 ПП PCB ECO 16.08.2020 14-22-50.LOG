@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator= NewDesignator=4-HL1
+Change Component Designator: OldDesignator= NewDesignator=4-HL2
+Change Component Designator: OldDesignator= NewDesignator=4-HL3
+Change Component Designator: OldDesignator= NewDesignator=4-HL4
+Change Component Designator: OldDesignator= NewDesignator=4-R1
+Change Component Designator: OldDesignator= NewDesignator=4-R2
+Change Component Designator: OldDesignator= NewDesignator=4-R3
+Change Component Designator: OldDesignator= NewDesignator=4-R4
+Added Pin To Net: NetName=Net4-HL3_1 Pin=4-HL3-1
+Added Pin To Net: NetName=Net4-HL3_2 Pin=4-HL3-2
+Added Pin To Net: NetName=Net4-HL4_1 Pin=4-HL4-1
+Added Pin To Net: NetName=L- Pin=4-HL4-2
+Added Pin To Net: NetName=Net4-HL2_2 Pin=4-R3-1
+Added Pin To Net: NetName=Net4-HL3_1 Pin=4-R3-2
+Added Pin To Net: NetName=Net4-HL3_2 Pin=4-R4-1
+Added Pin To Net: NetName=Net4-HL4_1 Pin=4-R4-2
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 4-HL1 FYLS-1206UWC
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 4-HL2 FYLS-1206UWC
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 4-HL3 FYLS-1206UWC
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 4-HL4 FYLS-1206UWC
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 4-R1 3K*
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 4-R3 3K*
+Added Member To Class: ClassName=001-03 Ý3 Member=Component 4-R4 3K*

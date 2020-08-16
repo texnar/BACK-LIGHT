@@ -1,0 +1,199 @@
+Removed Pin From Net: NetName=Net1-HL2_1 Pin=1-HL2-1
+Change Component Designator: OldDesignator=1-HL2 NewDesignator=2-HL1
+Change Component Designator: OldDesignator=1-HL3 NewDesignator=3-HL1
+Change Component Designator: OldDesignator=1-HL4 NewDesignator=4-HL1
+Change Component Designator: OldDesignator=1-R2 NewDesignator=2-R1
+Change Component Designator: OldDesignator=1-R3 NewDesignator=3-R1
+Change Component Designator: OldDesignator=1-R4 NewDesignator=4-R1
+Change Component Designator: OldDesignator=2-HL1 NewDesignator=1-HL2
+Change Component Designator: OldDesignator=2-HL3 NewDesignator=3-HL2
+Change Component Designator: OldDesignator=2-HL4 NewDesignator=4-HL2
+Change Component Designator: OldDesignator=2-R1 NewDesignator=1-R2
+Change Component Designator: OldDesignator=2-R3 NewDesignator=3-R2
+Change Component Designator: OldDesignator=2-R4 NewDesignator=4-R2
+Change Component Designator: OldDesignator=3-HL1 NewDesignator=1-HL3
+Change Component Designator: OldDesignator=3-HL2 NewDesignator=2-HL3
+Change Component Designator: OldDesignator=3-HL4 NewDesignator=4-HL3
+Change Component Designator: OldDesignator=3-R1 NewDesignator=1-R3
+Change Component Designator: OldDesignator=3-R2 NewDesignator=2-R3
+Change Component Designator: OldDesignator=3-R4 NewDesignator=4-R3
+Change Component Designator: OldDesignator=4-HL1 NewDesignator=1-HL4
+Change Component Designator: OldDesignator=4-HL2 NewDesignator=2-HL4
+Change Component Designator: OldDesignator=4-HL3 NewDesignator=3-HL4
+Change Component Designator: OldDesignator=4-R1 NewDesignator=1-R4
+Change Component Designator: OldDesignator=4-R2 NewDesignator=2-R4
+Change Component Designator: OldDesignator=4-R3 NewDesignator=3-R4
+Change Component Designator: OldDesignator=5-HL1 NewDesignator=1-HL5
+Change Component Designator: OldDesignator=5-HL2 NewDesignator=2-HL5
+Change Component Designator: OldDesignator=5-HL3 NewDesignator=3-HL5
+Change Component Designator: OldDesignator=5-HL4 NewDesignator=4-HL5
+Added Component: Designator=5-HL1(LED 1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "3K*"; VariantName = "[No Variations]"
+Added Component: Designator=5-HL2(LED 1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "3K*"; VariantName = "[No Variations]"
+Added Component: Designator=5-HL3(LED 1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "3K*"; VariantName = "[No Variations]"
+Added Component: Designator=5-HL4(LED 1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "3K*"; VariantName = "[No Variations]"
+Added Component: Designator=5-HL5(LED 1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "3K*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "3K*"; VariantName = "[No Variations]"
+Added Component: Designator=L+(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L-(PIN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=L+ Pin=1-HL1-1
+Added Pin To Net: NetName=Net1-HL2_1 Pin=1-HL2-1
+Added Pin To Net: NetName=Net1-HL2_2 Pin=1-HL2-2
+Added Pin To Net: NetName=Net1-HL3_1 Pin=1-HL3-1
+Added Pin To Net: NetName=Net1-HL3_2 Pin=1-HL3-2
+Added Pin To Net: NetName=Net1-HL4_1 Pin=1-HL4-1
+Added Pin To Net: NetName=Net1-HL4_2 Pin=1-HL4-2
+Added Pin To Net: NetName=Net1-HL5_1 Pin=1-HL5-1
+Added Pin To Net: NetName=L- Pin=1-HL5-2
+Added Pin To Net: NetName=Net1-HL2_2 Pin=1-R2-1
+Added Pin To Net: NetName=Net1-HL3_1 Pin=1-R2-2
+Added Pin To Net: NetName=Net1-HL3_2 Pin=1-R3-1
+Added Pin To Net: NetName=Net1-HL4_1 Pin=1-R3-2
+Added Pin To Net: NetName=Net1-HL4_2 Pin=1-R4-1
+Added Pin To Net: NetName=Net1-HL5_1 Pin=1-R4-2
+Added Pin To Net: NetName=L+ Pin=2-HL1-1
+Added Pin To Net: NetName=Net2-HL1_2 Pin=2-HL1-2
+Added Pin To Net: NetName=Net2-HL2_1 Pin=2-HL2-1
+Added Pin To Net: NetName=Net2-HL2_2 Pin=2-HL2-2
+Added Pin To Net: NetName=Net2-HL3_1 Pin=2-HL3-1
+Added Pin To Net: NetName=Net2-HL3_2 Pin=2-HL3-2
+Added Pin To Net: NetName=Net2-HL4_1 Pin=2-HL4-1
+Added Pin To Net: NetName=Net2-HL4_2 Pin=2-HL4-2
+Added Pin To Net: NetName=Net2-HL5_1 Pin=2-HL5-1
+Added Pin To Net: NetName=L- Pin=2-HL5-2
+Added Pin To Net: NetName=Net2-HL1_2 Pin=2-R1-1
+Added Pin To Net: NetName=Net2-HL2_1 Pin=2-R1-2
+Added Pin To Net: NetName=Net2-HL2_2 Pin=2-R2-1
+Added Pin To Net: NetName=Net2-HL3_1 Pin=2-R2-2
+Added Pin To Net: NetName=Net2-HL3_2 Pin=2-R3-1
+Added Pin To Net: NetName=Net2-HL4_1 Pin=2-R3-2
+Added Pin To Net: NetName=Net2-HL4_2 Pin=2-R4-1
+Added Pin To Net: NetName=Net2-HL5_1 Pin=2-R4-2
+Added Pin To Net: NetName=L+ Pin=3-HL1-1
+Added Pin To Net: NetName=Net3-HL1_2 Pin=3-HL1-2
+Added Pin To Net: NetName=Net3-HL2_1 Pin=3-HL2-1
+Added Pin To Net: NetName=Net3-HL2_2 Pin=3-HL2-2
+Added Pin To Net: NetName=Net3-HL3_1 Pin=3-HL3-1
+Added Pin To Net: NetName=Net3-HL3_2 Pin=3-HL3-2
+Added Pin To Net: NetName=Net3-HL4_1 Pin=3-HL4-1
+Added Pin To Net: NetName=Net3-HL4_2 Pin=3-HL4-2
+Added Pin To Net: NetName=Net3-HL5_1 Pin=3-HL5-1
+Added Pin To Net: NetName=L- Pin=3-HL5-2
+Added Pin To Net: NetName=Net3-HL1_2 Pin=3-R1-1
+Added Pin To Net: NetName=Net3-HL2_1 Pin=3-R1-2
+Added Pin To Net: NetName=Net3-HL2_2 Pin=3-R2-1
+Added Pin To Net: NetName=Net3-HL3_1 Pin=3-R2-2
+Added Pin To Net: NetName=Net3-HL3_2 Pin=3-R3-1
+Added Pin To Net: NetName=Net3-HL4_1 Pin=3-R3-2
+Added Pin To Net: NetName=Net3-HL4_2 Pin=3-R4-1
+Added Pin To Net: NetName=Net3-HL5_1 Pin=3-R4-2
+Added Pin To Net: NetName=L+ Pin=4-HL1-1
+Added Pin To Net: NetName=Net4-HL1_2 Pin=4-HL1-2
+Added Pin To Net: NetName=Net4-HL2_1 Pin=4-HL2-1
+Added Pin To Net: NetName=Net4-HL2_2 Pin=4-HL2-2
+Added Pin To Net: NetName=Net4-HL3_1 Pin=4-HL3-1
+Added Pin To Net: NetName=Net4-HL3_2 Pin=4-HL3-2
+Added Pin To Net: NetName=Net4-HL4_1 Pin=4-HL4-1
+Added Pin To Net: NetName=Net4-HL4_2 Pin=4-HL4-2
+Added Pin To Net: NetName=Net4-HL5_1 Pin=4-HL5-1
+Added Pin To Net: NetName=L- Pin=4-HL5-2
+Added Pin To Net: NetName=Net4-HL1_2 Pin=4-R1-1
+Added Pin To Net: NetName=Net4-HL2_1 Pin=4-R1-2
+Added Pin To Net: NetName=Net4-HL2_2 Pin=4-R2-1
+Added Pin To Net: NetName=Net4-HL3_1 Pin=4-R2-2
+Added Pin To Net: NetName=Net4-HL3_2 Pin=4-R3-1
+Added Pin To Net: NetName=Net4-HL4_1 Pin=4-R3-2
+Added Pin To Net: NetName=Net4-HL4_2 Pin=4-R4-1
+Added Pin To Net: NetName=Net4-HL5_1 Pin=4-R4-2
+Added Pin To Net: NetName=L+ Pin=5-HL1-1
+Added Pin To Net: NetName=Net5-HL1_2 Pin=5-HL1-2
+Added Pin To Net: NetName=Net5-HL2_1 Pin=5-HL2-1
+Added Pin To Net: NetName=Net5-HL2_2 Pin=5-HL2-2
+Added Pin To Net: NetName=Net5-HL3_1 Pin=5-HL3-1
+Added Pin To Net: NetName=Net5-HL3_2 Pin=5-HL3-2
+Added Pin To Net: NetName=Net5-HL4_1 Pin=5-HL4-1
+Added Pin To Net: NetName=Net5-HL4_2 Pin=5-HL4-2
+Added Pin To Net: NetName=Net5-HL5_1 Pin=5-HL5-1
+Added Pin To Net: NetName=L- Pin=5-HL5-2
+Added Pin To Net: NetName=Net5-HL1_2 Pin=5-R1-1
+Added Pin To Net: NetName=Net5-HL2_1 Pin=5-R1-2
+Added Pin To Net: NetName=Net5-HL2_2 Pin=5-R2-1
+Added Pin To Net: NetName=Net5-HL3_1 Pin=5-R2-2
+Added Pin To Net: NetName=Net5-HL3_2 Pin=5-R3-1
+Added Pin To Net: NetName=Net5-HL4_1 Pin=5-R3-2
+Added Pin To Net: NetName=Net5-HL4_2 Pin=5-R4-1
+Added Pin To Net: NetName=Net5-HL5_1 Pin=5-R4-2
+Added Pin To Net: NetName=L+ Pin=L+-PIN
+Added Pin To Net: NetName=L- Pin=L--PIN
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 1-HL5 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 2-HL1 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 2-HL5 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 2-R1 3K*
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 3-HL2 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 3-HL5 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 3-R2 3K*
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 4-HL5 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 4-R1 3K*
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 4-R3 3K*
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 5-HL1 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 5-HL2 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 5-HL3 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 5-HL4 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component 5-HL5 FYLS-1206UWC
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component L+ 
+Added Member To Class: ClassName=BACK-LIGHT-II Member=Component L- 
